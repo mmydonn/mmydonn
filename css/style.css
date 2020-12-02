@@ -171,6 +171,7 @@ body {
   width: 100%;
   position: absolute;
   background: url("/mmydonn/css/img/white.png");
+/*引用背景图片时文件存放的路径写错了所以没有显示*/
   top: 0;
   left: 0;
   -webkit-transition: 0.2s ease-out;
