@@ -125,7 +125,7 @@ body,
 }
 body {
   min-width: 320px;
-  background: url("/source/img/white.png");
+  background: url("/mmydonn/css/img/white.png");
   font: 14px/1.6em "Helvetica Neue", "Helvetica", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", Arial, sans-serif;
   -webkit-text-size-adjust: 100%;
 }
@@ -170,7 +170,7 @@ body {
   height: 100%;
   width: 100%;
   position: absolute;
-  background: url("/source/img/white.png");
+  background: url("/mmydonn/css/img/white.png");
   top: 0;
   left: 0;
   -webkit-transition: 0.2s ease-out;
